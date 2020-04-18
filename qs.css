@@ -1,0 +1,11 @@
+a:visited{color:blue;
+             font-style:italic;}
+
+a:hover{background-color:rgb(140,140,140);
+            color:purple;
+            border-radius:25px;}
+
+
+a:link{font-style:italic;
+         color:red;
+         font-weight:bold;}
